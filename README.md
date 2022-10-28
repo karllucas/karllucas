@@ -8,7 +8,7 @@
       - <span class="pl-s">C++</span>
 
   <span class="pl-ent">Interests</span>:
-    - <span class="pl-s">Full stack web development</span>
+    - <span class="pl-s">Full Stack Web Development</span>
     - <span class="pl-s">Site Realiability Engineering</span>
     - <span class="pl-s">DevOps Tooling</span>
     - <span class="pl-s">Open Source</span>
