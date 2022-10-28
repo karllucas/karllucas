@@ -15,5 +15,5 @@
     - <span class="pl-s">Systems Programming</span>
     - <span class="pl-s">Cloud Engineering</span>
     
-    <span class="pl-ent">Important Note</span>:
+  <span class="pl-ent">Important Note</span>:
     - <span class="pl-s">Don't lend me your computer. I'll run code on it.</span></pre>
