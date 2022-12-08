@@ -12,6 +12,7 @@
     - <span class="pl-s">Site Realiability Engineering</span>
     - <span class="pl-s">DevOps Tooling</span>
     - <span class="pl-s">Open Source</span>
+    - <span class="pl-s">UI/UX Design for Front-End Development</span>
     - <span class="pl-s">Systems Programming</span>
     - <span class="pl-s">Cloud Engineering</span>
   
