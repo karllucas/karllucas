@@ -12,8 +12,3 @@
     - <span class="pl-s">Site Realiability Engineering</span>
     - <span class="pl-s">Open Source</span>
     - <span class="pl-s">Systems Programming</span>
-  
-  <span class="pl-ent">Moto</span>:
-    - <span class="pl-s">I like to code it...code it! 🕺🏿🕺🏿</span></pre>
-  <span class="pl-ent">Important Note</span>:
-    - <span class="pl-s">Don't lend me your computer. I'll run code on it.</span></pre>
