@@ -4,7 +4,7 @@
    + <span class="pl-ent">Title</span>: <span class="pl-s">Software Engineer</span>
    + <span class="pl-ent">Languages</span>:
       > <span class="pl-s">JavaScript</span>
-          - <span class="pl-s">JS Frameworks/Tools</span>
+          > <span class="pl-s">JS Frameworks/Tools</span>
               - <span class="pl-s">React</span>
               - <span class="pl-s">Next</span>
       > <span class="pl-s">Go</span>
