@@ -8,6 +8,7 @@
               - <span class="pl-s">React</span>
               - <span class="pl-s">Next</span>
       > <span class="pl-s">Go</span>
+      > <span class="pl-s">Flutter</span>
       > <span class="pl-s">Python</span>
       > <span class="pl-s">C</span>
 
