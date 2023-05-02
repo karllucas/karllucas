@@ -5,7 +5,7 @@
     <span class="pl-ent">Languages:</span>
       - <span class="pl-s">JavaScript | HTML | CSS</span>
       - <span class="pl-s">Go</span>
-      - <span class="pl-s">Flutter</span>
+      - <span class="pl-s">Flutter | Dart</span>
       - <span class="pl-s">Python</span>
       - <span class="pl-s">C</span>
 
