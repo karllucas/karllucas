@@ -11,6 +11,17 @@
       - <span class="pl-s">C</span>
 
    <span class="pl-ent">Expertise:</span>
-     - <span class="pl-s">API Development with Swagger & Open API</span>
      - <span class="pl-s">Full Stack Web Development</span>
+     - <span class="pl-s">Software Development & Integration with AI (GPT3 - GPT4)</span>
+     - <span class="pl-s">Complex API Development with Swagger & Open API</span>
      - <span class="pl-s">Site Realiability Engineering</span>
+     
+   <span class="pl-ent">Tech Stacks:</span>
+     - <span class="pl-s">PERN</span>
+     - <span class="pl-s">MERN</span>
+     - <span class="pl-s">LAMP</span>
+   
+   <span class="pl-ent">Tools & Technology:</span>
+     - <span class="pl-s">OpenAPI & Swagger Tooling for complex APIs</span>
+     - <span class="pl-s">Notion, Shortcut, GitLab, & Trello for Project Management</span>
+     - <span class="pl-s">Gitflow Workflow for CI/CD</span>
