@@ -3,7 +3,7 @@
   <span class="pl-ent">Career:</span>
     <span class="pl-ent">Title: </span><span class="pl-s">Software Engineer</span>
     <span class="pl-ent">Qualification: </span><span class="pl-s">Full Stack Web Developer 
-                         with specialization in Backend Development</span>
+    with specialization in Backend Development</span>
     <span class="pl-ent">Languages:</span>
       - <span class="pl-s">JavaScript | HTML | CSS</span>
       - <span class="pl-s">Go</span>
