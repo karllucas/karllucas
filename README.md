@@ -20,9 +20,9 @@
      - <span class="pl-s">Site Realiability Engineering</span>
      
    <span class="pl-ent">Tech Stacks:</span>
-     - <span class="pl-s">PERN</span>
-     - <span class="pl-s">MERN</span>
-     - <span class="pl-s">LAMP</span>
+     - <span class="pl-s">PostgreSQL | Express | React | Node</span>
+     - <span class="pl-s">MongoDB | Express | React | Node</span>
+     - <span class="pl-s">Linux | Apache | MySQL | PHP</span>
    
    <span class="pl-ent">Tools & Technology:</span>
      - <span class="pl-s">OpenAPI & Swagger Tooling for complex APIs</span>
