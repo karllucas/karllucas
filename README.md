@@ -25,6 +25,7 @@
      - <span class="pl-s">Linux | Apache | MySQL | PHP (LAMP powered by WordPress)</span>
    
    <span class="pl-ent">Tools & Technology:</span>
+     - <span class="pl-s">WordPress CMS & Woocommerce or Shopify as standalone for Ecommerce.</span>
      - <span class="pl-s">OpenAPI & Swagger Tooling for complex APIs</span>
      - <span class="pl-s">Notion, Shortcut, GitLab, & Trello for Project Management</span>
      - <span class="pl-s">Gitflow Workflow for CI/CD</span>
