@@ -15,14 +15,14 @@
 
    <span class="pl-ent">Expertise:</span>
      - <span class="pl-s">Full Stack Web Development</span>
-     - <span class="pl-s">Software Development & Integration with AI (GPT3 - GPT4)</span>
-     - <span class="pl-s">Complex API Development with Swagger & Open API</span>
+     - <span class="pl-s">Software Development & Integration with AI</span>
+     - <span class="pl-s">Complex API Development with API Specification Design</span>
      - <span class="pl-s">Site Realiability Engineering</span>
      
    <span class="pl-ent">Tech Stacks:</span>
      - <span class="pl-s">PostgreSQL | Express | React | Node (PERN for SQL DB)</span>
      - <span class="pl-s">MongoDB | Express | React | Node (MERN for NoSQL DB)</span>
-     - <span class="pl-s">Linux | Apache | MySQL | PHP (LAMP powered by WordPress)</span>
+     - <span class="pl-s">Additional ability to build ontop of A CMS - Webflow & WordPress</span>
    
    <span class="pl-ent">Tools & Technology:</span>
      - <span class="pl-s">WordPress CMS & Woocommerce or Shopify as standalone for Ecommerce.</span>
