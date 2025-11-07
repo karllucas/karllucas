@@ -7,7 +7,7 @@
     with specialization in Backend Development</span>
     
     <span class="pl-ent">Languages:</span>
-      - <span class="pl-s">JavaScript | HTML | CSS</span>
+      - <span class="pl-s">JavaScript | HTML | CSS with Nextjs framework</span>
       - <span class="pl-s">Go</span>
       - <span class="pl-s">Flutter | Dart</span>
       - <span class="pl-s">Python</span>
